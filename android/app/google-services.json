@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "267646813149",
+    "project_id": "bliss-50f1b",
+    "storage_bucket": "bliss-50f1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267646813149:android:4d2dc5e46cc6332fa5ac34",
+        "android_client_info": {
+          "package_name": "com.example.bliss_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267646813149-8fulgrjqmdlaevatmn1p0m3uf05ik5pr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1DIYaqpl9b1NHNt5Bgy3Z-GphkWAzzCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267646813149-8fulgrjqmdlaevatmn1p0m3uf05ik5pr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
